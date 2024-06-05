@@ -8,6 +8,8 @@
 
 - These notes were written by me while I learned rust from the rust-lang's book
 
+- You should write your own code side-by-side, not just copy-paste 😒
+
 - If you find any mistakes, the issue page is always there ❤️
 
 - I will be adding more topics as I learn

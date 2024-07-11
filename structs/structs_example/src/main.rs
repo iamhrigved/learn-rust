@@ -8,13 +8,13 @@ fn main() {
     let width: u32 = 10;
     let height: u32 = 20;
     println!(
-        "The are of rectangle using normal variables is {}",
+        "The area of rectangle using normal variables is {}",
         area(width, height)
     );
 
     let dimensions: (u32, u32) = (10, 20);
     println!(
-        "The are of rectangle using tuples is {}",
+        "The area of rectangle using tuples is {}",
         area_dim(dimensions)
     );
 
@@ -23,7 +23,7 @@ fn main() {
         height: 20,
     };
     println!(
-        "The are of rectangle using structs is {}",
+        "The area of rectangle using structs is {}",
         area_struct(&rect)
     );
 
